@@ -1,0 +1,247 @@
+{
+   "shoes":
+   [
+        {
+            "title":"Casual Shoes",
+            "image":"./images/casual1.png",
+            "category":"Trend",
+            "ShoeId":1,
+            "discountRate":"",
+            "regularPrice":400,
+            "discountedPrice":350,
+            "categoryId":2,
+            "sizeId":3,
+            "description":"sdgadgafa"
+
+        },
+        {
+            "title":"Court boots",
+            "image":"./images/courtboot.png",
+            "category":"Latest",
+            "ShoeId":2,
+            "discountRate":"",
+            "regularPrice":600,
+            "discountedPrice":500,
+            "categoryId":3,
+            "sizeId":4,
+            "description":"sdgadscagafa"
+        }, 
+        {
+            "title":"Sport boots",
+            "image":"./images/sportboot1.jpg",
+            "category":"Featured",
+            "ShoeId":3,
+            "discountRate":"",
+            "regularPrice":800,
+            "discountedPrice":680,
+            "categoryId":4,
+            "sizeId":5,
+            "description":"sdacsgadgafa"
+        }, 
+        {
+            "title":"Court Shoes",
+            "image":"./images/court2.jpg",
+            "category":"Special",
+            "ShoeId":4,
+            "discountRate":"",
+            "regularPrice":700,
+            "discountedPrice":620,
+            "categoryId":5,
+            "sizeId":6,
+            "description":"sdgaadcddgafa"
+        },
+        {
+            "title":"Top Boots",
+            "image":"./images/Topboot1.jpg",
+            "category":"Special",
+            "ShoeId":5,
+            "discountRate":"",
+            "regularPrice":800,
+            "discountedPrice":720,
+            "categoryId":6,
+            "sizeId":7,
+            "description":"avadvad"
+        },
+        {
+            "title":"Court Shoes",
+            "image":"./images/court3.jpg",
+            "category":"Trend",
+            "ShoeId":6,
+            "discountRate":"",
+            "regularPrice":1000,
+            "discountedPrice":900,
+            "categoryId":7,
+            "sizeId":8,
+            "description":"sdgaadcddgafa"
+        },
+        {
+            "title":"Court Shoes",
+            "image":"./images/court5.jpg",
+            "category":"Latest",
+            "ShoeId":7,
+            "discountRate":"",
+            "regularPrice":1500,
+            "discountedPrice":1000,
+            "categoryId":8,
+            "sizeId":9,
+            "description":"sdgaadcddgafa"
+        },
+        {
+            "title":"Court Boots",
+            "image":"./images/courtboot2.png",
+            "category":"Special",
+            "ShoeId":8,
+            "discountRate":"",
+            "regularPrice":1000,
+            "discountedPrice":900,
+            "categoryId":9,
+            "sizeId":10,
+            "description":"sdgaadcddgafa"
+        },
+        {
+            "title":"Top Boots",
+            "image":"./images/Topboot2.png",
+            "category":"Trend",
+            "ShoeId":9,
+            "discountRate":"",
+            "regularPrice":1600,
+            "discountedPrice":1300,
+            "categoryId":10,
+            "sizeId":11,
+            "description":"sdgaadcddgafa"
+        },
+        {
+            "title":"Court Shoes",
+            "image":"./images/court9.png",
+            "category":"Special",
+            "ShoeId":10,
+            "discountRate":"",
+            "regularPrice":1600,
+            "discountedPrice":1300,
+            "categoryId":11,
+            "sizeId":12,
+            "description":"sdgaadcddgafa"
+        },
+        {
+            "title":"Court Boots",
+            "image":"./images/courtboot3.png",
+            "category":"Special",
+            "ShoeId":11,
+            "discountRate":"",
+            "regularPrice":1500,
+            "discountedPrice":1200,
+            "categoryId":12,
+            "sizeId":13,
+            "description":"sdgaadcddgafa"
+        },
+        {
+            "title":"Sport Boots",
+            "image":"./images/sportboot2.png",
+            "category":"Featured",
+            "ShoeId":12,
+            "discountRate":"",
+            "regularPrice":1000,
+            "discountedPrice":800,
+            "categoryId":13,
+            "sizeId":14,
+            "description":"sdgaadcddgafa"
+        },
+        {
+            "title":"Sport Boots",
+            "image":"./images/sportboot3.png",
+            "category":"Featured",
+            "ShoeId":13,
+            "discountRate":"",
+            "regularPrice":800,
+            "discountedPrice":600,
+            "categoryId":14,
+            "sizeId":15,
+            "description":"sdgaadcddgafa"
+        },
+        {
+            "title":"Sport Boots",
+            "image":"./images/sportboot4.png",
+            "category":"Featured",
+            "ShoeId":14,
+            "discountRate":"",
+            "regularPrice":1000,
+            "discountedPrice":800,
+            "categoryId":15,
+            "sizeId":16,
+            "description":"sdgaadcddgafa"
+        },
+        {
+            "title":"Sport Boots",
+            "image":"./images/sportboot5.png",
+            "category":"Featured",
+            "ShoeId":15,
+            "discountRate":"",
+            "regularPrice":1050,
+            "discountedPrice":850,
+            "categoryId":16,
+            "sizeId":17,
+            "description":"sdgaadcddgafa"
+        },
+        {
+            "title":"Top Boots",
+            "image":"./images/topboot4.png",
+            "category":"Trend",
+            "ShoeId":16,
+            "discountRate":"",
+            "regularPrice":1500,
+            "discountedPrice":1300,
+            "categoryId":17,
+            "sizeId":18,
+            "description":"sdgaadcddgafa"
+        },
+        {
+            "title":"Top Boots",
+            "image":"./images/topboot5.png",
+            "category":"Trend",
+            "ShoeId":17,
+            "discountRate":"",
+            "regularPrice":1700,
+            "discountedPrice":1500,
+            "categoryId":18,
+            "sizeId":19,
+            "description":"sdgaadcddgafa"
+        },
+        {
+            "title":"Court Boots",
+            "image":"./images/courtboot5.png",
+            "category":"Latest",
+            "ShoeId":18,
+            "discountRate":"",
+            "regularPrice":1700,
+            "discountedPrice":1500,
+            "categoryId":18,
+            "sizeId":19,
+            "description":"sdgaadcddgafa"
+        },
+        {
+            "title":"Court Boots",
+            "image":"./images/courtboot6.png",
+            "category":"Latest",
+            "ShoeId":19,
+            "discountRate":"",
+            "regularPrice":1700,
+            "discountedPrice":1500,
+            "categoryId":18,
+            "sizeId":19,
+            "description":"sdgaadcddgafa"
+        },
+        {
+            "title":"Top Boots",
+            "image":"./images/topboot6.png",
+            "category":"Latest",
+            "ShoeId":20,
+            "discountRate":"",
+            "regularPrice":1700,
+            "discountedPrice":1500,
+            "categoryId":18,
+            "sizeId":19,
+            "description":"sdgaadcddgafa"
+        }
+
+    ]
+}
